@@ -14,7 +14,7 @@ def es_primo(n):
     return True
 
 # Bienvenida y reglas del juego
-print("--------------------------------- ¡Bienvenido al juego de los números primos! ---------------------------------")
+print("-------------------------------- ¡Bienvenido al juego de los números primos! --------------------------------")
 print("_ Responde correctamente si el número es primo o no y ganá puntos!")
 print("_ Responde con 'sí' o 'no'. También puedes usar 's' o 'n'.")
 print("_ Si aciertas rápido, ganarás más puntos. ¡Buena suerte!")
