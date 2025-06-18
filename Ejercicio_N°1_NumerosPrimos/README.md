@@ -23,6 +23,6 @@ Si quieres modificar el juego, aquí tienes algunas ideas:
 - **Incluir efectos visuales o sonidos** 🎶  
 
 ## 📜 Autor  
-Este código fue creado por Joaquín Riveros como práctica de Python y juego interactivo. ¡Espero que lo disfrutes! 😃  
+Este código fue creado por Joaquín Riveros como práctica de Python. ¡Espero que lo disfrutes! 😃  
 
 ---
