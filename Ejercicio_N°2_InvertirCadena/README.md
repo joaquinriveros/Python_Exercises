@@ -28,7 +28,7 @@ El script presenta un menú interactivo que:
 
    ```bash
 
-   git clone https://github.com/tu_usuario/inversor-cadenas-interactivo.git
+   git clone https://github.com/joaquinriveros/Python_Exercises.git
 
    ```
 2. **Ejecutar el script:**
