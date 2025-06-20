@@ -3,9 +3,13 @@
 ¡Bienvenido a **RetroCalc v2.0**!  
 Una calculadora de estilo retro, interactiva y con animaciones de consola al mejor estilo vintage. Este proyecto en Python simula una experiencia nostálgica tipo computadora antigua, incluyendo efectos de escritura, beep sonoro, y un historial de operaciones persistente.
 
+---
+
 ## 📋 Descripción
 
 Este programa simula el arranque de un sistema antiguo y ofrece un menú interactivo para realizar cálculos básicos. Cada operación se registra automáticamente en un archivo de historial, con fecha y hora.
+
+---
 
 ### Funcionalidades:
 
@@ -85,3 +89,5 @@ Seleccioná una opción:
 
 ## 📜 Autor  
 Este código fue creado por Joaquín Riveros como práctica de Python. ¡Espero que lo disfrutes! 😃  
+
+---

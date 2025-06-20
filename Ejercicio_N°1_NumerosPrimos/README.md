@@ -2,8 +2,12 @@
 
 ¡Bienvenido al juego de los números primos! 🚀  
 
+---
+
 ## 📌 Descripción  
 Este programa en Python desafía al usuario a adivinar si un número es primo o no. Se generan números aleatorios y el jugador debe responder con **"sí"** o **"no"** para ganar puntos.  
+
+---
 
 ## 🎮 ¿Cómo jugar?  
 1. Ejecuta el código en Python.  
@@ -12,15 +16,21 @@ Este programa en Python desafía al usuario a adivinar si un número es primo o 
 4. ¡Responde rápido para ganar más puntos! 🏆  
 5. Al finalizar, verás tu puntaje total y podrás jugar de nuevo para mejorar.  
 
+---
+
 ## ⚙️ Requisitos  
 - Python 3.x  
 - Biblioteca estándar de Python (no necesitas instalar nada extra)  
+
+---
 
 ## ✨ Mejoras posibles  
 Si quieres modificar el juego, aquí tienes algunas ideas:  
 - **Agregar niveles de dificultad** 🏅  
 - **Mostrar estadísticas al finalizar** 📊  
 - **Incluir efectos visuales o sonidos** 🎶  
+
+---
 
 ## 📜 Autor  
 Este código fue creado por Joaquín Riveros como práctica de Python. ¡Espero que lo disfrutes! 😃  

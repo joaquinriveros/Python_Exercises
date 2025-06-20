@@ -2,6 +2,8 @@
 
 Este proyecto compara dos enfoques clásicos para calcular el factorial de un número entero no negativo: **recursivo** e **iterativo**. Sirve como ejercicio práctico para comprender estructuras de control, eficiencia algorítmica y el diseño de código limpio y modular.
 
+---
+
 ## 📌 Objetivo
 
 El objetivo es demostrar que ambos métodos producen el mismo resultado, mientras se comparan en términos de:
@@ -74,3 +76,5 @@ Este tipo de comparador es ideal para desarrollar habilidades esenciales en prog
 
 ## 📜 Autor  
 Este código fue creado por Joaquín Riveros como práctica de Python. ¡Espero que lo disfrutes! 😃
+
+---

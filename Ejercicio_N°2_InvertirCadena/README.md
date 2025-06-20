@@ -2,6 +2,8 @@
 
 Este proyecto en Python permite invertir una cadena de texto de manera interactiva y animada. El programa saluda al usuario al inicio, solicita una cadena para invertirla letra por letra mostrando la animación, y se despide de manera personalizada cuando el usuario decide salir.
 
+---
+
 ## Descripción
 
 El script presenta un menú interactivo que:
@@ -11,16 +13,22 @@ El script presenta un menú interactivo que:
 - **Limpieza de consola**: Se limpia la consola entre operaciones para una visualización más ordenada.
 - **Salida interactiva**: El usuario puede interrumpir el proceso escribiendo `salir` y recibir un saludo de despedida personalizado.
 
+---
+
 ## Características
 
 - **Interactividad**: Saludos personalizados al inicio y despedida al salir.
 - **Animación**: Visualización progresiva del proceso de inversión.
 - **Modularidad**: Funciones separadas para cada tarea (limpiar consola, invertir texto, pedir nombre, despedida y menú interactivo).
 
+---
+
 ## Prerrequisitos
 
 - Python 3.x instalado en tu sistema.
 - Sistema operativo compatible (Windows, macOS o Linux).
+
+---
 
 ## Instalación y Uso
 
@@ -41,7 +49,9 @@ El script presenta un menú interactivo que:
 
 - Al escribir salir, se mostrará un mensaje de despedida personalizado.
 
-Ejemplo de Ejecución
+---
+
+## Ejemplo de Ejecución
 
 ```bash
 👤 Por favor, ingresa tu nombre: Joaquín
@@ -60,6 +70,9 @@ Invirtiendo... aloh
 Presiona ENTER para continuar e invertir otra cadena...
 
 ```
+
+---
+
 ## 📜 Autor  
 Este código fue creado por Joaquín Riveros como práctica de Python. ¡Espero que lo disfrutes! 😃  
 
