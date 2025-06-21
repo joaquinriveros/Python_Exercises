@@ -1,5 +1,3 @@
-# 08_conversor_temperatura.py
-
 import os
 import sys
 import time
