@@ -1,8 +1,13 @@
-Ejercicio en Python: Práctica con Funciones
+## Ejercicio en Python: Práctica con Funciones
 
 Este repositorio contiene 20 ejercicios prácticos en Python enfocados exclusivamente en el uso y dominio de **funciones**. Cada ejercicio aborda un caso común o interesante, con el objetivo de fortalecer la lógica de programación, el diseño modular y la reutilización de código.
 
 ---
+
+## 📘 ¿Qué son las funciones en Python?
+Una función en Python es un bloque de código reutilizable que realiza una tarea específica. Permite organizar el código en unidades lógicas, facilitando su lectura, mantenimiento y reutilización. Las funciones se definen con la palabra clave def, pueden recibir parámetros de entrada y devolver resultados mediante return.
+
+El uso de funciones mejora la modularidad, reduce la repetición de código y permite construir programas más escalables y fáciles de depurar.
 
 ## 📌 Tabla de Contenido
 
