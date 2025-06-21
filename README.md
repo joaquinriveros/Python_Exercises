@@ -71,7 +71,7 @@ Python_Exercises/
 ├── Ejercicio_Nº11_VerificadorAñoBisiesto/
 │   ├── 11_detectar_anagramas.py
 │   └── README.md
-├── Ejercicio_Nº12_SumaImpares/
+├── Ejercicio_Nº12_RelojDigital/
 │   ├── 12_reloj_digital_consola.py
 │   └── README.md
 ├── Ejercicio_Nº13_OrdenaciónSinSort/
